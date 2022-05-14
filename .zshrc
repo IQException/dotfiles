@@ -113,12 +113,8 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #source ~/powerlevel10k/powerlevel10k.zsh-theme
 alias rvi='sudo -E vim'
-alias rotate='xrandr --output  HDMI-1-1 --rotate'
-alias idea='sh /home/jacob/program/ideaIU-2021.1.2/idea-IU-211.7442.40/bin/idea.sh'
-alias clion='sh /home/jacob/program/CLion-2021.1.2/clion-2021.1.2/bin/clion.sh'
-alias aria2c='aria2c --conf-path=/etc/aria2/aria2.conf -D'
-alias geth='~/Documents/git/go-ethereum/build/bin/geth'
-alias d2j='sh /home/jacob/program/dex-tools-2.1-SNAPSHOT/d2j.sh'
+#alias rotate='xrandr --output  HDMI-1-1 --rotate'
+#alias d2j='sh /home/jacob/program/dex-tools-2.1-SNAPSHOT/d2j.sh'
 alias la='ls -al'
 alias vi='vim'
 alias spi='sudo pacman -S'
