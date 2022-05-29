@@ -137,7 +137,7 @@ export LANG=en_US.UTF-8
 export LANGUAGE=en_US
 #:zh_CN
 
-screenfetch
+neofetch
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 #[[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
