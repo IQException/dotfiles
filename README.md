@@ -10,8 +10,8 @@
 
 ## set-up
 
-### install screenfetch
-> sudo apt install screenfetch
+### install  neofetch
+> sudo apt install neofetch
 
 ### install vim
 >  sudo apt install vim
