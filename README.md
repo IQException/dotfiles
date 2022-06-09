@@ -8,7 +8,8 @@
 ### install vim
 >  sudo apt install vim
 
-> source .vimrc
+### install vim-plug
+> google
 
 ### install zsh
 > sudo apt install zsh
@@ -27,10 +28,13 @@
 
 ## post-install
 
-
 ### link ~/.oh-my-zsh/custom
 > rm -rf ~/.oh-my-zsh/custom
 > 
 > ln -s ~/.oh-my-zsh-custom ~/.oh-my-zsh/custom
 
 ### install oh-my-zsh plugins 
+> 打开zsh，看报错哪些插件没有，google一下安装
+
+### install vim plugins
+> 在vim中输入指令  :PlugInstall
