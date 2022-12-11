@@ -8,6 +8,9 @@
 ### install vim
 >  sudo apt install vim
 
+### create vim related folders
+> mkdir -p $HOME/.vim/files/{backup,swap,undo,info}
+
 ### install vim-plug
 > google
 
