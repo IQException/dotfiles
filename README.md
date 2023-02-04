@@ -42,5 +42,3 @@
 ### install vim plugins
 > 在vim中输入指令  :PlugInstall
 
-### config vim
-> mkdir -p .vim/files/backup .vim/files/swap .vim/files/undo
